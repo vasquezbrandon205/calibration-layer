@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "calibration-layer: a measured confidence layer for AI answers"
+authors:
+  - family-names: Vasquez
+    given-names: Brandon Manuel
+version: 0.1.0
+date-released: 2026-10-13
+url: https://github.com/vasquezbrandon205/calibration-layer
+license: Apache-2.0
